@@ -4,8 +4,10 @@ Suiza ofrece mucho más que esta lista, pero está restringida a:
 
 - Están a 1h 30' como máximo de Zürich.
 - Se pueden realizar en primavera.
-- Aptas para carritos de coches.
+- Aptas para carritos de bebes.
 - Son las más representativas.
+
+Todos los precios de transporte es ida y vuelta.
 
 ## Poblaciones
 
@@ -47,7 +49,7 @@ Pequeña población de 75k habitantes. El distrito capitular de Sankt Gallen con
 
 ## Actividades cerca de Zürich
 
-### Fábrica de chocolate
+### Fábrica de chocolate Lindt
 
 <div><img src="imgs/lindt.webp" height="200"></div>
 Tour de chocolate, explica cómo se hace el chocolate y podemos luego degustarlo.
@@ -63,6 +65,7 @@ Tour de chocolate, explica cómo se hace el chocolate y podemos luego degustarlo
 El museo presenta la interesante historia del fútbol internacional, hace un recorrido por las grandes competiciones
 
 - En Zürich
+- Entrada museo + degustación: 22 EUR
 - Tiempo visita: 1 a 2 horas
 - [Más información](https://www.fifamuseum.com/en/exhibitions-events/the-exhibition/)
 
@@ -73,6 +76,7 @@ Una de las fortalezas más importantes de Suiza, origen de la casa Hasburgo (cas
 Es un castillo muy bien mantenido, cada piso reproduce con mucho detalle cómo vivía la gente a lo largo de los siglos.
 
 - Tren desde Zürich: 1h - 60 EUR
+- Entrada: 10 EUR
 - Tiempo visita: 2 a 4 horas
 - [Más información](https://www.myswitzerland.com/es/descubrir-suiza/castillo-de-lenzburg-un-castillo-de-caballeros-y-dragones/)
 
