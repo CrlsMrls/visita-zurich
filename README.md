@@ -1,5 +1,3 @@
-# Viaje a Suiza Abril 2022
-
 Suiza ofrece mucho más que esta lista, pero está restringida a:
 
 - Están a 1h 30' como máximo de Zürich.
