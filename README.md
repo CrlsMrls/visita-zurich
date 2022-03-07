@@ -1,11 +1,11 @@
+**Al final hay un apartado para los precios.**
+
 Suiza ofrece mucho más que esta lista, pero está restringida a:
 
 - Están a 1h 30' como máximo de Zürich.
 - Se pueden realizar en primavera.
 - Aptas para carritos de bebes.
 - Son las más representativas.
-
-Todos los precios de transporte es ida y vuelta.
 
 ## Poblaciones
 
@@ -139,3 +139,15 @@ Pequeña montaña junto a Zürich. Para ver la ciudad y el lago Zürich desde ar
 - Tren desde Zürich: 15 min - 10 EUR
 - Tiempo visita: 1 a 2 horas
 - [Más información](https://www.utokulm.ch/en/uetliberg)
+
+## Precios
+
+Todos los precios de transporte son ida y vuelta.
+
+Comer fuera suele salir caro:
+
+- Desayunos son 10 EUR
+- Comidas 50 EUR
+- Cenas 40 EUR
+
+Como en todo, hay opciones más baratas (salchicha + patatas - 10 EUR) y más caras (restaurante con vino - 100 EUR).
